@@ -1,7 +1,7 @@
 # CSV Processing Script
 
 ## Descripcion General
-El script de procesamiento CSV es una herramienta de Python diseñada para analizar archivos CSV que contienen datos relacionados con las métricas de desempeño de los agentes. Lee archivos CSV de un directorio específico, extrae datos relevantes y genera una tabla de resumen con las métricas de desempeño de los agentes para un mes determinado.
+El script de procesamiento CSV es una herramienta de Python diseñada para analizar archivos CSV que contienen datos relacionados con las métricas de desempeño de algunos agentes. Lee archivos CSV de un directorio específico, extrae datos relevantes y genera una tabla de resumen con las métricas de desempeño de los agentes para un mes determinado.
 
 ## Caracteristicas
 - Procesar multiples archivos de CSV
