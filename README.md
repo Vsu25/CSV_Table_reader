@@ -20,7 +20,7 @@ El script de procesamiento CSV es una herramienta de Python diseñada para anali
 
 4. **Correr el Script (Run)**: Ejecutar `script.py` para poder correr el script.
 
-5. **Seleccionar la carpeta**: Click en "Browse" selecciona la carpeta que contiene el template y todos los archivos CSV que quieres que se procesen **IMPORTANTE** el archivo template.xlsx debe de estar en la carpeta donde se ubican los demas archivos CSV.
+5. **Seleccionar la carpeta**: Click en "Browse" selecciona la carpeta que contiene el template y todos los archivos CSV que quieres que se procesen **IMPORTANTE** el archivo `template.xlsx` debe de estar en la carpeta donde se ubican los demas archivos CSV.
 
 6. **Generar los resultados**: Click en "Generate Result" para que procese todos los CSV y te genere la tabla.
 
